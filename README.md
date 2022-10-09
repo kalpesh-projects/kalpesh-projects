@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance Analytics!**
 
-- 📝 I regularly write articles on [https://medium.com/@kalpesh.ghadigaonkar](https://medium.com/@kalpesh.ghadigaonkar)
+- 📝 I write articles on [https://medium.com/@kalpesh.ghadigaonkar](https://medium.com/@kalpesh.ghadigaonkar)
 
 - 💬 Ask me about **Statistics, Machine learning**
 
