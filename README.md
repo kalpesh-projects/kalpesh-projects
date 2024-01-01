@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpesh-projects&label=Profile%20views&color=0e75b6&style=flat" alt="kalpesh-projects" /> </p>
 
-- 🌱 I’m currently learning **Advance Analytics!**
+- 🌱 Currently working as a Statistical Analyst & Building [@DataToDestiny](https://www.instagram.com/datatodestiny/)
 
-- 📝 I write articles on [https://medium.com/@kalpesh.ghadigaonkar](https://medium.com/@kalpesh.ghadigaonkar)
+- 📝 I create content on [@dataanalystduo](https://www.instagram.com/dataanalystduo/)
 
 - 💬 Ask me about **Statistics, Machine learning**
 
-- 📫 How to reach me **kalpeshghadi05@gmail.com**
+- 📫 How to reach me **kalpeshghadi05@gmail.com/dataanalystduo@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3r6KJ3z](https://bit.ly/3r6KJ3z)
-
-- ⚡ Fun fact **I make reels too.**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sQN_8nvFVC1-dTFeYjg2Ia63t8c77gbQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
